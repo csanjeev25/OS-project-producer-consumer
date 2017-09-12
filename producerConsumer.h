@@ -1,9 +1,7 @@
-#include<buffer.h>
 #include<iostream.h>
 #include<semaphore.h>
 #include<pthread.h>
 #include<stdlib.h>
-#include<unistd.h>
 #include<conio.h>
 
 //initializing buffer
